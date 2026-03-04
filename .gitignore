@@ -217,3 +217,6 @@ v1/src/sensing/mac_wifi
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
